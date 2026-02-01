@@ -1,4 +1,4 @@
-# Foundations of Data Science Project
+# IMLS Data Science Project
 
 ## Data Source
 This data comes from the [Public Libraries Survey (PLS) 2023](https://www.imls.gov/research-evaluation/surveys/public-libraries-survey-pls) survey data of 9,252 libraries across the United States. Specifically, we examine "PLS_FY23_AE_pud23i.csv".
